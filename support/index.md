@@ -2,7 +2,7 @@
 
 ## Welcome to The Shortlist Support!  
 
-Thank you for using *The Shortlist*! This app helps you track Oscar-nominated movies, mark what you’ve watched, and filter by nomination category.  
+Thank you for using *The Shortlist*! This app helps you track Award-nominated movies, mark what you’ve watched, and filter by nomination category.  
 
 ## Frequently Asked Questions  
 
